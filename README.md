@@ -1,13 +1,5 @@
 <div align="center">
 
-# Eric Couto
-
-*Desenvolvedor em formação & Entusiasta de Tecnologia*
-
-[GitHub](https://github.com/coutows) • [Portfólio](#) • [E-mail](mailto:seu-email@exemplo.com)
-
----
-
 </div>
 
 ### 🥷 Sobre Mim
@@ -16,7 +8,7 @@ Sou um desenvolvedor em formação focado em desenvolvimento web. Gosto de trans
 
 - 🏫 Estudante do Ensino Médio Técnico em Informática no **IFRO**.
 - 💻 **Setup:** CachyOS (Arch Linux) + KDE Plasma.
-- 🎯 **Foco Atual:** JavaScript, Node.js, Express e Bancos de Dados.
+- 🎯 **Foco Atual:** JavaScript, Bancos de Dados.
 
 ---
 
