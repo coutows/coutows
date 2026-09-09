@@ -33,30 +33,8 @@ Sou um desenvolvedor em formação focado em desenvolvimento web. Gosto de trans
 ### 🚀 Projeto em Destaque
 
 **🎬 Projeto Filmes**  
-Aplicação web para busca e visualização de informações sobre filmes.  
+Aplicação web para diminuir taxa de golpes sobre phishing  
 `HTML` • `CSS` • `JavaScript`
 
 📄 [Repositório no GitHub](https://github.com/coutows) | 🌐 [Acessar Demonstração](#)
 
----
-
-### 📊 Estatísticas
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=coutows&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutows&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coutows&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-🚀 *"Sempre aprendendo, sempre evoluindo."*
-
-</div>
